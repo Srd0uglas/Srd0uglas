@@ -6,7 +6,6 @@
 
 - Desenvolvedor Front-End
 - Técnico em Desenvolvimento de Sistemas pela Etec
-- Atualmente cursando Tecnólogo em Sistemas para Internet na Fatec
 - Entre em contato: contato.douglasdesouza@gmail.com
 
 <hr>
