@@ -1,12 +1,12 @@
 <h1>
-    Olá!! Me chamo Douglas Souza 👋
+    Olá!! Me chamo Douglas Souza 👨‍💻
 </h1>
 
-### 😀 Sobre mim:
+### 👾 Sobre mim:
 
 - Desenvolvedor Front-End
 - Técnico em Desenvolvimento de Sistemas pela Etec
-- Entre em contato: contato.douglasdesouza@gmail.com
+- Meu contato: contato.douglasdesouza@gmail.com
 
 <hr>
 
@@ -30,7 +30,7 @@
 
 <hr>
 
-### ⭐ Redes Sociais
+### 🔍 Redes Sociais
 
 <div>
     <a href="https://www.linkedin.com/in/douglas-souza-5a2527221/" target="_blank">
